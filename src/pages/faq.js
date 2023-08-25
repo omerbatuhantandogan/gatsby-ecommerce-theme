@@ -4,7 +4,11 @@ import * as styles from './faq.module.css';
 import Layout from '../components/Layout/Layout';
 import Banner from '../components/Banner';
 import Container from '../components/Container';
-
+<script
+  src="https://app.livechatai.com/embed.js"
+  data-id="cllm81ax9003jjp0f3lt65hfs"
+  async defer>
+</script>
 const FaqPage = (props) => {
   return (
     <Layout>
