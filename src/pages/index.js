@@ -15,7 +15,11 @@ import { generateMockBlogData, generateMockProductData } from '../helpers/mock';
 
 import * as styles from './index.module.css';
 import { Link, navigate } from 'gatsby';
-
+<script
+  src="https://app.livechatai.com/embed.js"
+  data-id="cllm81ax9003jjp0f3lt65hfs"
+  async defer>
+</script>
 const IndexPage = () => {
   const newArrivals = generateMockProductData(3, 'shirt');
   const blogData = generateMockBlogData(3);
